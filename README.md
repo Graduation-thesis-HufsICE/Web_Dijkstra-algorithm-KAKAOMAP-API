@@ -8,7 +8,7 @@
 3.  final.py에서 다익스트라 알고리즘을 통해 경로 안내
 
 #### 결과
-1. map_woo가 결과 화면
+<img src="result.png">
 
 ##
 - 💻 **Computer specs used to train the model**
